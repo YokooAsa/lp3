@@ -13,6 +13,7 @@ $('.l-main6__slick__items').slick({
       slidesToShow: 1,
       slidesToScroll: 1,
       speed: 600,
+      centerPadding:"8%",
     }
   }]
 });
